@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bigchaindb-driver": "^4.3.0",
+    "n-readlines": "^1.0.1"
+  }
+}
